@@ -1,0 +1,401 @@
+FAA ID,Departure Day,Departure Time,Flight #,Airline
+SAT,Sunday,6:00,AA1234,American Airlines
+SAT,Monday,6:00,DL5678,Delta Air Lines
+SAT,Tuesday,6:00,UA9012,United Airlines
+SAT,Wednesday,6:00,WN3456,Southwest Airlines
+SAT,Thursday,6:00,AS7890,Alaska Airlines
+AUS,Sunday,6:00,AA3056,American Airlines
+AUS,Monday,6:00,DL4821,Delta Air Lines
+AUS,Tuesday,6:00,UA6534,United Airlines
+AUS,Wednesday,6:00,WN1024,Southwest Airlines
+AUS,Thursday,6:00,AS2417,Alaska Airlines
+IAH,Sunday,6:00,AA1000,American Airlines
+IAH,Monday,6:00, DL1200,Delta Air Lines
+IAH,Tuesday,6:00,UA6200,United Airlines
+IAH,Wednesday,6:00,WN1500,Southwest Airlines
+IAH,Thursday,6:00,AS8000,Alaska Airlines
+HOU,Sunday,6:00,AA1001,American Airlines
+HOU,Monday,6:00,DL1001,Delta Air Lines
+HOU,Tuesday,6:00,UA1001,United Airlines
+HOU,Wednesday,6:00,WN1001,Southwest Airlines
+HOU,Thursday,6:00,AS1001,Alaska Airlines
+DFW,Sunday,6:00,AA2056,American Airlines
+DFW,Monday,6:00,DL6100,Delta Air Lines
+DFW,Tuesday,6:00,UA2223,United Airlines
+DFW,Wednesday,6:00,WN9987,Southwest Airlines
+DFW,Thursday,6:00,AS3003,Alaska Airlines
+DAL,Sunday,6:00,AA5577,American Airlines
+DAL,Monday,6:00,DL7202,Delta Air Lines
+DAL,Tuesday,6:00,UA5678,United Airlines
+DAL,Wednesday,6:00,WN4523,Southwest Airlines
+DAL,Thursday,6:00,AS5000,Alaska Airlines
+MSY,Sunday,6:00,AA1928,American Airlines
+MSY,Monday,6:00,DL9856,Delta Air Lines
+MSY,Tuesday,6:00,UA7689,United Airlines
+MSY,Wednesday,6:00,WN7812,Southwest Airlines
+MSY,Thursday,6:00,AS6001,Alaska Airlines
+JAX,Sunday,6:00,AA7891,American Airlines
+JAX,Monday,6:00,DL8601,Delta Air Lines
+JAX,Tuesday,6:00,UA3435,United Airlines
+JAX,Wednesday,6:00,WN8991,Southwest Airlines
+JAX,Thursday,6:00,AS7600,Alaska Airlines
+MCO,Sunday,6:00,AA2122,American Airlines
+MCO,Monday,6:00,DL7205,Delta Air Lines
+MCO,Tuesday,6:00,UA5912,United Airlines
+MCO,Wednesday,6:00,WN4762,Southwest Airlines
+MCO,Thursday,6:00,AS2002,Alaska Airlines
+TPA,Sunday,6:00,AA5687,American Airlines
+TPA,Monday,6:00,DL3436,Delta Air Lines
+TPA,Tuesday,6:00,UA7823,United Airlines
+TPA,Wednesday,6:00,WN2002,Southwest Airlines
+TPA,Thursday,6:00,AS2012,Alaska Airlines
+SAT,Sunday,9:00,BA1123,British Airways
+SAT,Monday,9:00,NK4567,Spirit Airlines
+SAT,Tuesday,9:00,F98910,Frontier Airlines
+SAT,Wednesday,9:00,B61234,JetBlue Airways
+SAT,Thursday,9:00,LH5678,Lufthansa
+AUS,Sunday,9:00,BA1587,British Airways
+AUS,Monday,9:00,NK2784,Spirit Airlines
+AUS,Tuesday,9:00,F97569,Frontier Airlines
+AUS,Wednesday,9:00,B61478,JetBlue Airways
+AUS,Thursday,9:00,LH9023,Lufthansa
+IAH,Sunday,9:00,BA1500,British Airways
+IAH,Monday,9:00,NK4300,Spirit Airlines
+IAH,Tuesday,9:00,F98500,Frontier Airlines
+IAH,Wednesday,9:00,B61400,JetBlue Airways
+IAH,Thursday,9:00,LH5500,Lufthansa
+HOU,Sunday,9:00,BA1001,British Airways
+HOU,Monday,9:00,NK1001,Spirit Airlines
+HOU,Tuesday,9:00,F91001,Frontier Airlines
+HOU,Wednesday,9:00,B61001,JetBlue Airways
+HOU,Thursday,9:00,LH1001,Lufthansa
+DFW,Sunday,9:00,BA2300,British Airways
+DFW,Monday,9:00,NK5670,Spirit Airlines
+DFW,Tuesday,9:00,F97001,Frontier Airlines
+DFW,Wednesday,9:00,B62468,JetBlue Airways
+DFW,Thursday,9:00,LH2234,Lufthansa
+DAL,Sunday,9:00,BA3457,British Airways
+DAL,Monday,9:00,NK5005,Spirit Airlines
+DAL,Tuesday,9:00,F95676,Frontier Airlines
+DAL,Wednesday,9:00,B65566,JetBlue Airways
+DAL,Thursday,9:00,LH4545,Lufthansa
+MSY,Sunday,9:00,BA9008,British Airways
+MSY,Monday,9:00,NK6700,Spirit Airlines
+MSY,Tuesday,9:00,F94007,Frontier Airlines
+MSY,Wednesday,9:00,B67788,JetBlue Airways
+MSY,Thursday,9:00,LH7890,Lufthansa
+JAX,Sunday,9:00,BA7665,British Airways
+JAX,Monday,9:00,NK7008,Spirit Airlines
+JAX,Tuesday,9:00,F96036,Frontier Airlines
+JAX,Wednesday,9:00,B69911,JetBlue Airways
+JAX,Thursday,9:00,LH6004,Lufthansa
+MCO,Sunday,9:00,BA5345,British Airways
+MCO,Monday,9:00,NK9834,Spirit Airlines
+MCO,Tuesday,9:00,F91129,Frontier Airlines
+MCO,Wednesday,9:00,B63459,JetBlue Airways
+MCO,Thursday,9:00,LH3322,Lufthansa
+TPA,Sunday,9:00,BA8756,British Airways
+TPA,Monday,9:00,NK3900,Spirit Airlines
+TPA,Tuesday,9:00,F92252,Frontier Airlines
+TPA,Wednesday,9:00,B69871,JetBlue Airways
+TPA,Thursday,9:00,LH8188,Lufthansa
+SAT,Sunday,12:00,JL3456,Japan Airlines
+SAT,Monday,12:00,PR7890,Philippine Airlines
+SAT,Tuesday,12:00,TK1123,Turkish Airlines
+SAT,Wednesday,12:00,VA4567,Virgin Australia
+SAT,Thursday,12:00,SN8910,Brussels Airlines
+AUS,Sunday,12:00,JL2201,Japan Airlines
+AUS,Monday,12:00,PR3475,Philippine Airlines
+AUS,Tuesday,12:00,TK9823,Turkish Airlines
+AUS,Wednesday,12:00,VA5001,Virgin Australia
+AUS,Thursday,12:00,SN4067,Brussels Airlines
+IAH,Sunday,12:00,JL2100,Japan Airlines
+IAH,Monday,12:00,PR5600,Philippine Airlines
+IAH,Tuesday,12:00,TK1125,Turkish Airlines
+IAH,Wednesday,12:00,VA4900,Virgin Australia
+IAH,Thursday,12:00,SN9600,Brussels Airlines
+HOU,Sunday,12:00,JL1001,Japan Airlines
+HOU,Monday,12:00,PR1001,Philippine Airlines
+HOU,Tuesday,12:00,TK1001,Turkish Airlines
+HOU,Wednesday,12:00,VA1001,Virgin Australia
+HOU,Thursday,12:00,SN1001,Brussels Airlines
+DFW,Sunday,12:00,JL7665,Japan Airlines
+DFW,Monday,12:00,PR8560,Philippine Airlines
+DFW,Tuesday,12:00,TK2300,Turkish Airlines
+DFW,Wednesday,12:00,VA3400,Virgin Australia
+DFW,Thursday,12:00,SN3012,Brussels Airlines
+DAL,Sunday,12:00,JL8332,Japan Airlines
+DAL,Monday,12:00,PR4788,Philippine Airlines
+DAL,Tuesday,12:00,TK5006,Turkish Airlines
+DAL,Wednesday,12:00,VA3002,Virgin Australia
+DAL,Thursday,12:00,SN2103,Brussels Airlines
+MSY,Sunday,12:00,JL9621,Japan Airlines
+MSY,Monday,12:00,PR9123,Philippine Airlines
+MSY,Tuesday,12:00,TK6007,Turkish Airlines
+MSY,Wednesday,12:00,VA7780,Virgin Australia
+MSY,Thursday,12:00,SN2012,Brussels Airlines
+JAX,Sunday,12:00,JL4576,Japan Airlines
+JAX,Monday,12:00,PR6002,Philippine Airlines
+JAX,Tuesday,12:00,TK8077,Turkish Airlines
+JAX,Wednesday,12:00,VA8922,Virgin Australia
+JAX,Thursday,12:00,SN5035,Brussels Airlines
+MCO,Sunday,12:00,JL8219,Japan Airlines
+MCO,Monday,12:00,PR6988,Philippine Airlines
+MCO,Tuesday,12:00,TK9889,Turkish Airlines
+MCO,Wednesday,12:00,VA6600,Virgin Australia
+MCO,Thursday,12:00,SN7754,Brussels Airlines
+TPA,Sunday,12:00,JL3989,Japan Airlines
+TPA,Monday,12:00,PR8932,Philippine Airlines
+TPA,Tuesday,12:00,TK3460,Turkish Airlines
+TPA,Wednesday,12:00,VA3323,Virgin Australia
+TPA,Thursday,12:00,SN7709,Brussels Airlines
+SAT,Sunday,15:00,AF9012,Air France
+SAT,Monday,15:00,QF3456,Qantas Airways
+SAT,Tuesday,15:00,NH7890,All Nippon Airways (ANA)
+SAT,Wednesday,15:00,KL1123,KLM Royal Dutch Airlines
+SAT,Thursday,15:00,CX4567,Cathay Pacific
+AUS,Sunday,15:00,AF1245,Air France
+AUS,Monday,15:00,QF3042,Qantas Airways
+AUS,Tuesday,15:00,NH1347,All Nippon Airways (ANA)
+AUS,Wednesday,15:00,KL6212,KLM Royal Dutch Airlines
+AUS,Thursday,15:00,CX5023,Cathay Pacific
+IAH,Sunday,15:00,AF3400,Air France
+IAH,Monday,15:00,QF7000,Qantas Airways
+IAH,Tuesday,15:00,NH7300,All Nippon Airways (ANA)
+IAH,Wednesday,15:00,KL3100,KLM Royal Dutch Airlines
+IAH,Thursday,15:00,CX7000,Cathay Pacific
+HOU,Sunday,15:00,AF1001,Air France
+HOU,Monday,15:00,QF1001,Qantas Airways
+HOU,Tuesday,15:00,NH1001,All Nippon Airways (ANA)
+HOU,Wednesday,15:00,KL1001,KLM Royal Dutch Airlines
+HOU,Thursday,15:00,CX1001,Cathay Pacific
+DFW,Sunday,15:00,AF2245,Air France
+DFW,Monday,15:00,QF1222,Qantas Airways
+DFW,Tuesday,15:00,NH2232,All Nippon Airways (ANA)
+DFW,Wednesday,15:00,KL9009,KLM Royal Dutch Airlines
+DFW,Thursday,15:00,CX3599,Cathay Pacific
+DAL,Sunday,15:00,AF2002,Air France
+DAL,Monday,15:00,QF3448,Qantas Airways
+DAL,Tuesday,15:00,NH1009,All Nippon Airways (ANA)
+DAL,Wednesday,15:00,KL8934,KLM Royal Dutch Airlines
+DAL,Thursday,15:00,CX3557,Cathay Pacific
+MSY,Sunday,15:00,AF3330,Air France
+MSY,Monday,15:00,QF6670,Qantas Airways
+MSY,Tuesday,15:00,NH9971,All Nippon Airways (ANA)
+MSY,Wednesday,15:00,KL1234,KLM Royal Dutch Airlines
+MSY,Thursday,15:00,CX8880,Cathay Pacific
+JAX,Sunday,15:00,AF7897,Air France
+JAX,Monday,15:00,QF8008,Qantas Airways
+JAX,Tuesday,15:00,NH6767,All Nippon Airways (ANA)
+JAX,Wednesday,15:00,KL3456,KLM Royal Dutch Airlines
+JAX,Thursday,15:00,CX1234,Cathay Pacific
+MCO,Sunday,15:00,AF8001,Air France
+MCO,Monday,15:00,QF9008,Qantas Airways
+MCO,Tuesday,15:00,NH5703,All Nippon Airways (ANA)
+MCO,Wednesday,15:00,KL3345,KLM Royal Dutch Airlines
+MCO,Thursday,15:00,CX3456,Cathay Pacific
+TPA,Sunday,15:00,AF1099,Air France
+TPA,Monday,15:00,QF5688,Qantas Airways
+TPA,Tuesday,15:00,NH2156,All Nippon Airways (ANA)
+TPA,Wednesday,15:00,KL5567,KLM Royal Dutch Airlines
+TPA,Thursday,15:00,CX1225,Cathay Pacific
+SAT,Sunday,18:00,AI8910,Air India
+SAT,Monday,18:00,AC1234,Air Canada
+SAT,Tuesday,18:00,KE5678,Korean Air
+SAT,Wednesday,18:00,AM9012,Aeromexico
+SAT,Thursday,18:00,AV3456,Avianca
+AUS,Sunday,18:00,AI7436,Air India
+AUS,Monday,18:00,AC8935,Air Canada
+AUS,Tuesday,18:00,KE2478,Korean Air
+AUS,Wednesday,18:00,AM3469,Aeromexico
+AUS,Thursday,18:00,AV5012,Avianca
+IAH,Sunday,18:00,AI4700,Air India
+IAH,Monday,18:00,AC2300,Air Canada
+IAH,Tuesday,18:00,KE3500,Korean Air
+IAH,Wednesday,18:00,AM2800,Aeromexico
+IAH,Thursday,18:00,AV5500,Avianca
+HOU,Sunday,18:00,AI1001,Air India
+HOU,Monday,18:00,AC1001,Air Canada
+HOU,Tuesday,18:00, KE1001,Korean Air
+HOU,Wednesday,18:00,AM1001,Aeromexico
+HOU,Thursday,18:00,AV1001,Avianca
+DFW,Sunday,18:00,AI2002,Air India
+DFW,Monday,18:00,AC2002,Air Canada
+DFW,Tuesday,18:00, KE2002,Korean Air
+DFW,Wednesday,18:00,AM2002,Aeromexico
+DFW,Thursday,18:00,AV2002,Avianca
+DAL,Sunday,18:00,AI7644,Air India
+DAL,Monday,18:00,AC8009,Air Canada
+DAL,Tuesday,18:00, KE8899,Korean Air
+DAL,Wednesday,18:00,AM1256,Aeromexico
+DAL,Thursday,18:00,AV3343,Avianca
+MSY,Sunday,18:00,AI5700,Air India
+MSY,Monday,18:00,AC6766,Air Canada
+MSY,Tuesday,18:00, KE7544,Korean Air
+MSY,Wednesday,18:00,AM9006,Aeromexico
+MSY,Thursday,18:00,AV9067,Avianca
+JAX,Sunday,18:00,AI9701,Air India
+JAX,Monday,18:00,AC8345,Air Canada
+JAX,Tuesday,18:00, KE5567,Korean Air
+JAX,Wednesday,18:00,AM5006,Aeromexico
+JAX,Thursday,18:00,AV5007,Avianca
+MCO,Sunday,18:00,AI7899,Air India
+MCO,Monday,18:00,AC1344,Air Canada
+MCO,Tuesday,18:00, KE4655,Korean Air
+MCO,Wednesday,18:00,AM5008,Aeromexico
+MCO,Thursday,18:00,AV6778,Avianca
+TPA,Sunday,18:00,AI3346,Air India
+TPA,Monday,18:00,AC6677,Air Canada
+TPA,Tuesday,18:00, KE6009,Korean Air
+TPA,Wednesday,18:00,AM7998,Aeromexico
+TPA,Thursday,18:00,AV1255,Avianca
+SAT,Sunday,21:00,HA7890,Hawaiian Airlines
+SAT,Monday,21:00,VS1123,Virgin Atlantic
+SAT,Tuesday,21:00,EK4567,Emirates
+SAT,Wednesday,21:00,QR8910,Qatar Airways
+SAT,Thursday,21:00,IB1234,Iberia
+AUS,Sunday,21:00,HA6721,Hawaiian Airlines
+AUS,Monday,21:00,VS3034,Virgin Atlantic
+AUS,Tuesday,21:00,EK5803,Emirates
+AUS,Wednesday,21:00,QR7582,Qatar Airways
+AUS,Thursday,21:00,IB9911,Iberia
+IAH,Sunday,21:00,HA1234,Hawaiian Airlines
+IAH,Monday,21:00,VS1200,Virgin Atlantic
+IAH,Tuesday,21:00,EK3500,Emirates
+IAH,Wednesday,21:00,QR7800,Qatar Airways
+IAH,Thursday,21:00,IB6500,Iberia
+HOU,Sunday,21:00,HA1001,Hawaiian Airlines
+HOU,Monday,21:00,VS1001,Virgin Atlantic
+HOU,Tuesday,21:00,EK1001,Emirates
+HOU,Wednesday,21:00,QR1001,Qatar Airways
+HOU,Thursday,21:00,IB1001,Iberia
+DFW,Sunday,21:00,HA2002,Hawaiian Airlines
+DFW,Monday,21:00,VS2002,Virgin Atlantic
+DFW,Tuesday,21:00,EK2002,Emirates
+DFW,Wednesday,21:00,QR2002,Qatar Airways
+DFW,Thursday,21:00,IB2002,Iberia
+DAL,Sunday,21:00,HA4556,Hawaiian Airlines
+DAL,Monday,21:00,VS7664,Virgin Atlantic
+DAL,Tuesday,21:00,EK8009,Emirates
+DAL,Wednesday,21:00,QR8990,Qatar Airways
+DAL,Thursday,21:00,IB7765,Iberia
+MSY,Sunday,21:00,HA5576,Hawaiian Airlines
+MSY,Monday,21:00,VS6675,Virgin Atlantic
+MSY,Tuesday,21:00,EK2231,Emirates
+MSY,Wednesday,21:00,QR1443,Qatar Airways
+MSY,Thursday,21:00,IB5569,Iberia
+JAX,Sunday,21:00,HA9904,Hawaiian Airlines
+JAX,Monday,21:00,VS8766,Virgin Atlantic
+JAX,Tuesday,21:00,EK7788,Emirates
+JAX,Wednesday,21:00,QR8705,Qatar Airways
+JAX,Thursday,21:00,IB5099,Iberia
+MCO,Sunday,21:00,HA7007,Hawaiian Airlines
+MCO,Monday,21:00,VS3007,Virgin Atlantic
+MCO,Tuesday,21:00,EK5766,Emirates
+MCO,Wednesday,21:00,QR2445,Qatar Airways
+MCO,Thursday,21:00,IB7688,Iberia
+TPA,Sunday,21:00,HA6557,Hawaiian Airlines
+TPA,Monday,21:00,VS2880,Virgin Atlantic
+TPA,Tuesday,21:00,EK5744,Emirates
+TPA,Wednesday,21:00,QR4567,Qatar Airways
+TPA,Thursday,21:00,IB2134,Iberia
+SAT,Sunday,0:00,LY5678,EL AL Israel Airlines
+SAT,Monday,0:00,AZ9012,Alitalia
+SAT,Tuesday,0:00,SU3456,Aeroflot
+SAT,Wednesday,0:00,EY7890,Etihad Airways
+SAT,Thursday,0:00,MH1123,Malaysia Airlines
+AUS,Sunday,0:00,LY3246,EL AL Israel Airlines
+AUS,Monday,0:00,AZ5924,Alitalia
+AUS,Tuesday,0:00,SU1845,Aeroflot
+AUS,Wednesday,0:00,EY6742,Etihad Airways
+AUS,Thursday,0:00,MH2951,Malaysia Airlines
+IAH,Sunday,0:00,LY1500,EL AL Israel Airlines
+IAH,Monday,0:00,AZ5000,Alitalia
+IAH,Tuesday,0:00,SU7875,Aeroflot
+IAH,Wednesday,0:00,EY4100,Etihad Airways
+IAH,Thursday,0:00,MH4300,Malaysia Airlines
+HOU,Sunday,0:00,LY1001,EL AL Israel Airlines
+HOU,Monday,0:00,AZ1001,Alitalia
+HOU,Tuesday,0:00,SU1001,Aeroflot
+HOU,Wednesday,0:00,EY1001,Etihad Airways
+HOU,Thursday,0:00,MH1001,Malaysia Airlines
+DFW,Sunday,0:00,LY2002,EL AL Israel Airlines
+DFW,Monday,0:00,AZ2002,Alitalia
+DFW,Tuesday,0:00,SU2002,Aeroflot
+DFW,Wednesday,0:00,EY2002,Etihad Airways
+DFW,Thursday,0:00,MH2002,Malaysia Airlines
+DAL,Sunday,0:00,LY3455,EL AL Israel Airlines
+DAL,Monday,0:00,AZ5766,Alitalia
+DAL,Tuesday,0:00,SU9088,Aeroflot
+DAL,Wednesday,0:00,EY8900,Etihad Airways
+DAL,Thursday,0:00,MH6790,Malaysia Airlines
+MSY,Sunday,0:00,LY6755,EL AL Israel Airlines
+MSY,Monday,0:00,AZ4677,Alitalia
+MSY,Tuesday,0:00,SU9009,Aeroflot
+MSY,Wednesday,0:00,EY8009,Etihad Airways
+MSY,Thursday,0:00,MH6066,Malaysia Airlines
+JAX,Sunday,0:00,LY7008,EL AL Israel Airlines
+JAX,Monday,0:00,AZ6687,Alitalia
+JAX,Tuesday,0:00,SU9776,Aeroflot
+JAX,Wednesday,0:00,EY2115,Etihad Airways
+JAX,Thursday,0:00,MH2300,Malaysia Airlines
+MCO,Sunday,0:00,LY2232 ,EL AL Israel Airlines
+MCO,Monday,0:00,AZ2566,Alitalia
+MCO,Tuesday,0:00,SU7664,Aeroflot
+MCO,Wednesday,0:00,EY4679,Etihad Airways
+MCO,Thursday,0:00,MH9004,Malaysia Airlines
+TPA,Sunday,0:00,LY4563,EL AL Israel Airlines
+TPA,Monday,0:00,AZ3323,Alitalia
+TPA,Tuesday,0:00,SU5674,Aeroflot
+TPA,Wednesday,0:00,EY8890,Etihad Airways
+TPA,Thursday,0:00,MH8009,Malaysia Airlines
+SAT,Sunday,3:00,SA4567,South African Airways
+SAT,Monday,3:00,BR8910,EVA Air
+SAT,Tuesday,3:00,TG1234,Thai Airways
+SAT,Wednesday,3:00,CZ5678,China Southern Airlines
+SAT,Thursday,3:00,MU9012,China Eastern Airlines
+AUS,Sunday,3:00,SA1025,South African Airways
+AUS,Monday,3:00,BR5126,EVA Air
+AUS,Tuesday,3:00,TG3947,Thai Airways
+AUS,Wednesday,3:00,CZ8042,China Southern Airlines
+AUS,Thursday,3:00,MU2764,China Eastern Airlines
+IAH,Sunday,3:00,SA3100,South African Airways
+IAH,Monday,3:00,BR4800,EVA Air
+IAH,Tuesday,3:00,TG2700,Thai Airways
+IAH,Wednesday,3:00,CZ6500,China Southern Airlines
+IAH,Thursday,3:00,MU5200,China Eastern Airlines
+HOU,Sunday,3:00,SA1001,South African Airways
+HOU,Monday,3:00,BR1001,EVA Air
+HOU,Tuesday,3:00,TG1001,Thai Airways
+HOU,Wednesday,3:00,CZ1001,China Southern Airlines
+HOU,Thursday,3:00,MU1001,China Eastern Airlines
+DFW,Sunday,3:00,SA2002,South African Airways
+DFW,Monday,3:00,BR2002,EVA Air
+DFW,Tuesday,3:00,TG2002,Thai Airways
+DFW,Wednesday,3:00,CZ2002,China Southern Airlines
+DFW,Thursday,3:00,MU2002,China Eastern Airlines
+DAL,Sunday,3:00,SA3445,South African Airways
+DAL,Monday,3:00,BR2344,EVA Air
+DAL,Tuesday,3:00,TG2322,Thai Airways
+DAL,Wednesday,3:00,CZ5433,China Southern Airlines
+DAL,Thursday,3:00,MU9800,China Eastern Airlines
+MSY,Sunday,3:00,SA8909,South African Airways
+MSY,Monday,3:00,BR6789,EVA Air
+MSY,Tuesday,3:00,TG5766,Thai Airways
+MSY,Wednesday,3:00,CZ5769,China Southern Airlines
+MSY,Thursday,3:00,MU2534,China Eastern Airlines
+JAX,Sunday,3:00,SA1223,South African Airways
+JAX,Monday,3:00,BR1255,EVA Air
+JAX,Tuesday,3:00,TG1676,Thai Airways
+JAX,Wednesday,3:00,CZ7877,China Southern Airlines
+JAX,Thursday,3:00,MU7900,China Eastern Airlines
+MCO,Sunday,3:00,SA6809,South African Airways
+MCO,Monday,3:00,BR3454,EVA Air
+MCO,Tuesday,3:00,TG4556,Thai Airways
+MCO,Wednesday,3:00,CZ7112,China Southern Airlines
+MCO,Thursday,3:00,MU7445,China Eastern Airlines
+TPA,Sunday,3:00,SA7071,South African Airways
+TPA,Monday,3:00,BR3507,EVA Air
+TPA,Tuesday,3:00,TG9009,Thai Airways
+TPA,Wednesday,3:00,CZ5799,China Southern Airlines
+TPA,Thursday,3:00,MU4550,China Eastern Airlines
