@@ -1,27 +1,7 @@
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 import requests
 import json
 
-
-"""
-EXAMPLE USAGE: 
-
-# Departing from Houston Hobby (HOU)
-hou_lat = "29.6407"
-hou_lon = "-95.2740"
-
-# Get the closest weather forecast for the departure airport
-departure_dt = datetime.now(tz=timezone.utc)
-delayed_departure = is_delayed_weather_at_location(hou_lat, hou_lon, departure_dt)
-
-# Arriving at Denver International Airport (DEN)
-den_lat = "39.849312"
-den_lon = "-104.673828"
-
-# Get the weather forecast for the arrival airport (assuming a 3 hr flight)
-arrival_dt = datetime.now(tz=timezone.utc) + timedelta(hours=3)
-delayed_arrival = is_delayed_weather_at_location(den_lat, den_lon, arrival_dt)
-"""
 
 API_KEY = "189b9f73b01fded31fef00424010e0d6"
 WIND_SPEED_THRESHOLD = 34  # mph
